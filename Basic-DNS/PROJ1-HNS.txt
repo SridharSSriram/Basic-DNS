@@ -1,0 +1,4 @@
+kill.cs.rutgers.edu
+www.ibm.edu
+www.google.com
+mx.rutgers.com
